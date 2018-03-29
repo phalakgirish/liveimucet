@@ -1,0 +1,104 @@
+body{
+	font-family: 'texgyreadventorregular' !important;
+}
+/*left content*/
+.data{	border:1px solid;background:#c4ff4d;margin: 15px;/*padding: 10px;*/border-radius: 10px;}
+.data1{	text-align: justify;padding: 10px;/*background:green;*/}
+.data1 label{color: #ffffff;}
+.data1 span a{color: #ffffff;}
+.form{font-family: Arial Verdana;}
+.form p b{color: white;}
+.form p{padding: 10px;background:  #88cc00;}
+.labels label a{color: #00cc00;}
+.labels label a:hover{color: #008000;}
+.coll{padding: 30px;}
+.graduate a:hover{
+	color: black;
+}
+/*left content*/
+
+
+      /*** LEFT PANEL ***/
+
+.leftpanel { width: 260px; color: #fff; float: left; }
+.leftmenu{background:#275da2;padding-bottom: 200px;}
+
+.leftmenu .nav-header {
+  font-weight: normal; font-size: 11px; padding: 5px 20px; text-shadow: none; background:#275da2;
+  border-bottom: 1px solid #222; }
+.leftmenu .nav-tabs.nav-stacked a { color: #999; padding: 10px 20px; font-size: 14px; }
+.leftmenu .nav-tabs.nav-stacked a span { margin-right: 10px; }
+.leftmenu .nav-tabs.nav-stacked > li > a { border: 0; border-bottom: 1px solid #232323; }
+.leftmenu .nav-tabs.nav-stacked > li > a:hover,
+.leftmenu .nav-tabs.nav-stacked > li > a:focus { background-color: #33CC33; color: #fff; border-bottom-color: #232323; }
+.leftmenu .nav-tabs.nav-stacked > li.active > a { background-color: #0866c6; color: #fff; border-bottom-color: rgba(0,0,0,0.2); }
+.leftmenu .nav-tabs.nav-stacked > li.active > a:hover { background-color: #0866c6; }
+.leftmenu .nav-tabs > li { margin-bottom: 0; }
+
+
+.leftmenu .nav-tabs.nav-stacked > li.dropdown ul { background: #eee; display: none; }
+.leftmenu .nav-tabs.nav-stacked > li.dropdown ul li { border-bottom: 1px solid #ddd; border-right: 1px solid #ddd; }
+.leftmenu .nav-tabs.nav-stacked > li.dropdown > a {
+  background-image: url(../images/droparrow.png); background-repeat: no-repeat; background-position: right 19px; }
+
+.leftmenu .nav-tabs.nav-stacked .dropdown ul li a  {
+  display: block; font-size: 13px; padding: 7px 10px 7px 50px; color: #333; background-position: 25px 12px;
+  background-image: url(../images/menuarrow.png); background-repeat: no-repeat;  
+}
+.leftmenu .nav-tabs.nav-stacked .dropdown ul li.active a { background-color: lightgreen; }
+.leftmenu .nav-tabs.nav-stacked .dropdown ul li a:hover { text-decoration: none; background-color: ; }
+.leftmenu .nav-tabs.nav-stacked .dropdown ul ul li { border-right: 0; }
+.leftmenu .nav-tabs.nav-stacked .dropdown ul ul li a { padding-left: 70px; background-position: 50px 12px; }
+.leftmenu .nav-tabs.nav-stacked .dropdown ul ul li:first-child a { border-top: 1px solid lightgreen; } 
+.leftmenu .nav-tabs.nav-stacked .dropdown ul li{background: lightgreen}
+.leftmenu .nav-tabs.nav-stacked .dropdown a{background: #2eb82e;color: #f2f2f2}
+.leftmenu .nav-tabs.nav-stacked .dropdown li a{	background: lightgreen}
+.leftmenu .nav-tabs.nav-stacked .dropdown li a:hover{background: lightgreen}
+.
+}
+/*** MAIN PANEL ***/
+
+/*student 4*/
+
+/*student 4*/
+
+/*student 9*/
+.right-content1 h4{padding:10px;background: lightblue;margin-top: 0px;margin-left: 0px;}
+.right-content1 .rules {border:2px solid; border-radius:8px;margin:20px;padding:46px;font-size: 18px;background: lightgreen}
+.right-content1 .rules h4{color: red;font-size: 20px;text-decoration: underline;font-weight: 600}
+/*student 9*/
+
+/*student 10*/
+.right-content2 .option-form{border: 2px solid lightblue; border-radius: 5px;background: lightgreen; padding-left: 20px;padding: 40px;margin: 20px;}
+.right-content2 .option-form h4{padding:10px;color: red;font-weight: 600}
+/*student 10*/
+
+/*student 11*/
+.right-content3 .result{border: 2px solid lightgray; padding:40px;background: lightgreen;border-radius: 5px;}
+.right-content3 .result p{font-size: 18px}
+/*student 11*/
+
+/*student 12*/
+.right-content4 .option-form{border: 2px solid lightblue; border-radius: 5px;background: lightgreen; margin-bottom: 20px;padding-left: 20px;padding: 40px;}
+.right-content4 .option-form h4{padding:10px;color: red;font-weight: 600}
+/*student 12*/
+.topic h4{background: lightgray;padding: 10px;margin: 0px;}
+.topic p{font-size: 18px;font-weight: 600;padding-top: 20px;}
+
+/*student 13*/
+/*.right-content .option-form{border: 2px solid lightblue; border-radius: 5px;}*/
+.topic1 h4{background: lightgray;padding: 10px;margin: 0px;}
+.right-content5 .option-form{padding: 20px;border: 2px solid lightgray; padding:15px;background: lightgreen;border-radius: 5px;margin-bottom: 20px;}
+
+.indexmodal {
+    width: 670px;
+    margin: 60px auto;
+}
+.icon{font-size: 10px !important;}
+
+.modal.fade .modal-dialog {
+  -webkit-transition: -webkit-transform 0.3s ease-out;
+     -moz-transition: -moz-transform 0.3s ease-out;
+       -o-transition: -o-transform 0.3s ease-out;
+          transition: transform 0.3s ease-out;
+}

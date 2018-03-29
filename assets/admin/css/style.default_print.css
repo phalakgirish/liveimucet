@@ -1,0 +1,10 @@
+						.dwnloadsection { width:100%; height:auto; float:left; }
+						.dwnloadsection p { text-align:right; margin:5px 0 !important; }
+						.dwnloadsection ul { width:auto !important; float:right !important; margin:0 !important; padding:0 !important; border:none !important; }
+						.dwnloadsection ul li { display:inline-block !important; width:100px !important; height:auto !important; float:left !important; padding:10px !important; 
+						 margin:5px !important; background:#fcfcfc !important; border:1px solid #ddd !important; clear:none !important; }
+						.dwnloadsection ul li img { width:100%; float:left; }
+						.filename { width:100%; float:left; text-align:center; font-size:11px; margin:2px 0; }
+						.filename a { cursor:pointer; }
+						.mediamgr_left { width:100%; float:left; }
+						.mediamgr_content { width:100%; float:left; }	
