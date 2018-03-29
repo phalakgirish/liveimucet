@@ -25,7 +25,7 @@
             
             <form action="<?php echo base_url()?>user/login" method="post" class="stdform">
                 
-                <center><h3 class="subtitle">Login Information test</h3></center>
+                <center><h3 class="subtitle">Login Information</h3></center>
 				<div class="control-label"><?php if(isset($error_msg)){ echo $error_msg; }?><?php echo form_error("user_email"); ?></div>
 				<div class="control-label"><?php echo form_error("user_pass"); ?></div>
                 <p><input type="text" name="user_email" class="input-block-level" value="<?php echo set_value('user_email'); ?>" placeholder="Email" /></p>
